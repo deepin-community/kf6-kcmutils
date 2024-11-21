@@ -1,3 +1,9 @@
+kf6-kcmutils (6.6.0-2deepin1) unstable; urgency=medium
+
+  * add qml6-module.
+
+ -- lichenggang <lichenggang@deepin.org>  Thu, 21 Nov 2024 16:40:17 +0800
+
 kf6-kcmutils (6.6.0-2) unstable; urgency=medium
 
   * Team upload.
