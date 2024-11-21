@@ -1,0 +1,7 @@
+usr/include/KF6/KCMUtils/
+usr/include/KF6/KCMUtilsCore/
+usr/include/KF6/KCMUtilsQuick/
+usr/lib/*/cmake/KF6KCMUtils/
+usr/lib/*/libKF6KCMUtils.so
+usr/lib/*/libKF6KCMUtilsCore.so
+usr/lib/*/libKF6KCMUtilsQuick.so
