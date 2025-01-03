@@ -1,0 +1,76 @@
+# SymbolsHelper-Confirmed: 6.0.0 amd64 armel armhf i386 loong64 mips64el powerpc ppc64 ppc64el riscv64 s390x
+libKF6KCMUtilsQuick.so.6 libkf6kcmutilsquick6 #MINVER#
+* Build-Depends-Package: libkf6kcmutils-dev
+ _ZN18KQuickConfigModule10pagePushedEP10QQuickItem@Base 6.0.0
+ _ZN18KQuickConfigModule11mainUiReadyEv@Base 6.0.0
+ _ZN18KQuickConfigModule11pageRemovedEv@Base 6.0.0
+ _ZN18KQuickConfigModule11qt_metacallEN11QMetaObject4CallEiPPv@Base 6.0.0
+ _ZN18KQuickConfigModule11qt_metacastEPKc@Base 6.0.0
+ _ZN18KQuickConfigModule12depthChangedEi@Base 6.0.0
+ _ZN18KQuickConfigModule14setColumnWidthEi@Base 6.0.0
+ _ZN18KQuickConfigModule15setCurrentIndexEi@Base 6.0.0
+ _ZN18KQuickConfigModule16staticMetaObjectE@Base 6.0.0
+ _ZN18KQuickConfigModule17setInternalEngineERKSt10shared_ptrI10QQmlEngineE@Base 6.0.0
+ _ZN18KQuickConfigModule18columnWidthChangedEi@Base 6.0.0
+ _ZN18KQuickConfigModule19currentIndexChangedEi@Base 6.0.0
+ _ZN18KQuickConfigModule21qmlAttachedPropertiesEP7QObject@Base 6.0.0
+ _ZN18KQuickConfigModule3popEv@Base 6.0.0
+ _ZN18KQuickConfigModule4pushEP10QQuickItem@Base 6.0.0
+ _ZN18KQuickConfigModule4pushERK7QStringRK4QMapIS0_8QVariantE@Base 6.0.0
+ _ZN18KQuickConfigModule6mainUiEv@Base 6.0.0
+ _ZN18KQuickConfigModule8takeLastEv@Base 6.0.0
+ _ZN18KQuickConfigModuleC1EP7QObjectRK15KPluginMetaData@Base 6.0.0
+ _ZN18KQuickConfigModuleC2EP7QObjectRK15KPluginMetaData@Base 6.0.0
+ _ZN18KQuickConfigModuleD0Ev@Base 6.0.0
+ _ZN18KQuickConfigModuleD1Ev@Base 6.0.0
+ _ZN18KQuickConfigModuleD2Ev@Base 6.0.0
+ _ZN24KQuickConfigModuleLoader10loadModuleERK15KPluginMetaDataP7QObjectRK5QListI8QVariantERKSt10shared_ptrI10QQmlEngineE@Base 6.0.0
+ _ZN25KQuickManagedConfigModule11qt_metacallEN11QMetaObject4CallEiPPv@Base 6.0.0
+ _ZN25KQuickManagedConfigModule11qt_metacastEPKc@Base 6.0.0
+ _ZN25KQuickManagedConfigModule15settingsChangedEv@Base 6.0.0
+ _ZN25KQuickManagedConfigModule16registerSettingsEP19KCoreConfigSkeleton@Base 6.0.0
+ _ZN25KQuickManagedConfigModule16staticMetaObjectE@Base 6.0.0
+ _ZN25KQuickManagedConfigModule4loadEv@Base 6.0.0
+ _ZN25KQuickManagedConfigModule4saveEv@Base 6.0.0
+ _ZN25KQuickManagedConfigModule8defaultsEv@Base 6.0.0
+ _ZN25KQuickManagedConfigModuleC1EP7QObjectRK15KPluginMetaData@Base 6.0.0
+ _ZN25KQuickManagedConfigModuleC2EP7QObjectRK15KPluginMetaData@Base 6.0.0
+ _ZN25KQuickManagedConfigModuleD0Ev@Base 6.0.0
+ _ZN25KQuickManagedConfigModuleD1Ev@Base 6.0.0
+ _ZN25KQuickManagedConfigModuleD2Ev@Base 6.0.0
+ _ZNK18KQuickConfigModule10metaObjectEv@Base 6.0.0
+ _ZNK18KQuickConfigModule11columnWidthEv@Base 6.0.0
+ _ZNK18KQuickConfigModule11errorStringEv@Base 6.0.0
+ _ZNK18KQuickConfigModule12currentIndexEv@Base 6.0.0
+ _ZNK18KQuickConfigModule5depthEv@Base 6.0.0
+ _ZNK18KQuickConfigModule6engineEv@Base 6.0.0
+ _ZNK18KQuickConfigModule7subPageEi@Base 6.0.0
+ _ZNK25KQuickManagedConfigModule10isDefaultsEv@Base 6.0.0
+ _ZNK25KQuickManagedConfigModule10metaObjectEv@Base 6.0.0
+ _ZNK25KQuickManagedConfigModule12isSaveNeededEv@Base 6.0.0
+ (optional=templinst|arch=amd64)_ZNKSt8_Rb_treeI7QStringSt4pairIKS0_8QVariantESt10_Select1stIS4_ESt4lessIS0_ESaIS4_EE4findERS2_@Base 6.0.0
+ _ZTI18KQuickConfigModule@Base 6.0.0
+ _ZTI25KQuickManagedConfigModule@Base 6.0.0
+ (arch=armel riscv64)_ZTIN9__gnu_cxx7__mutexE@Base 6.0.0
+ (arch=armel riscv64)_ZTISt11_Mutex_baseILN9__gnu_cxx12_Lock_policyE1EE@Base 6.0.0
+ (arch=!armel !riscv64)_ZTISt11_Mutex_baseILN9__gnu_cxx12_Lock_policyE2EE@Base 6.0.0
+ (arch=armel riscv64)_ZTISt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE1EE@Base 6.0.0
+ (arch=!armel !riscv64)_ZTISt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE@Base 6.0.0
+ (arch=armel armhf)_ZTISt19_Sp_make_shared_tag@Base 6.0.0
+ (arch=armel riscv64)_ZTISt23_Sp_counted_ptr_inplaceI10QQmlEngineSaIvELN9__gnu_cxx12_Lock_policyE1EE@Base 6.0.0
+ (arch=!armel !riscv64)_ZTISt23_Sp_counted_ptr_inplaceI10QQmlEngineSaIvELN9__gnu_cxx12_Lock_policyE2EE@Base 6.0.0
+ _ZTS18KQuickConfigModule@Base 6.0.0
+ _ZTS25KQuickManagedConfigModule@Base 6.0.0
+ (arch=armel riscv64)_ZTSN9__gnu_cxx7__mutexE@Base 6.0.0
+ (arch=armel riscv64)_ZTSSt11_Mutex_baseILN9__gnu_cxx12_Lock_policyE1EE@Base 6.0.0
+ (arch=!armel !riscv64)_ZTSSt11_Mutex_baseILN9__gnu_cxx12_Lock_policyE2EE@Base 6.0.0
+ (arch=armel riscv64)_ZTSSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE1EE@Base 6.0.0
+ (arch=!armel !riscv64)_ZTSSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE@Base 6.0.0
+ _ZTSSt19_Sp_make_shared_tag@Base 6.0.0
+ (arch=armel riscv64)_ZTSSt23_Sp_counted_ptr_inplaceI10QQmlEngineSaIvELN9__gnu_cxx12_Lock_policyE1EE@Base 6.0.0
+ (arch=!armel !riscv64)_ZTSSt23_Sp_counted_ptr_inplaceI10QQmlEngineSaIvELN9__gnu_cxx12_Lock_policyE2EE@Base 6.0.0
+ _ZTV18KQuickConfigModule@Base 6.0.0
+ _ZTV25KQuickManagedConfigModule@Base 6.0.0
+ (arch=armel riscv64)_ZTVSt23_Sp_counted_ptr_inplaceI10QQmlEngineSaIvELN9__gnu_cxx12_Lock_policyE1EE@Base 6.0.0
+ (arch=!armel !riscv64)_ZTVSt23_Sp_counted_ptr_inplaceI10QQmlEngineSaIvELN9__gnu_cxx12_Lock_policyE2EE@Base 6.0.0
+ _ZZNSt19_Sp_make_shared_tag5_S_tiEvE5__tag@Base 6.0.0
